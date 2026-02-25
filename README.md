@@ -1,2 +1,2 @@
-Basic Express JS
+Basic Express JS practice project 
 
